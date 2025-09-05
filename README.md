@@ -38,11 +38,7 @@ The dataset contains order-level sales details including:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]()
-
-## 🌐 Live Demo
-
-🔗 [View Interactive Dashboard](https://app.powerbi.com/) *(Replace with your Power BI public link once published)*
+![Dashboard Screenshot](https://github.com/Yogita2409/Amazon-Sales-dashboard/blob/master/Amazon%20dashboard.png)
 
 ## 📌 How to Use
 
@@ -57,8 +53,3 @@ The dataset contains order-level sales details including:
 * Category-wise inventory planning
 * Business decision-making with real-time insights
 
----
-
-✨ Pro tip: Once you **publish to Power BI Service**, copy the **“Publish to Web” link** and paste it in the *Live Demo* section so recruiters can interact with your dashboard.
-
-👉 Do you want me to also create a **README template** for *all your Power BI projects* (so you can just update details like dataset, insights, screenshots)?
